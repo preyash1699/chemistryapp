@@ -10,8 +10,9 @@ Volume of KOH
 ```
 Acid Value = (Volume of 0.1mol/L KOH Consumed x 5.611) / (Weight of the sample)
 ```
+<!-- ![Screenshot_20190621-133432](https://user-images.githubusercontent.com/40350374/59909815-3760ad80-942e-11e9-86dc-5c6c9d7db87f.png) -->
 
-![Screenshot_20190621-133432](https://user-images.githubusercontent.com/40350374/59909815-3760ad80-942e-11e9-86dc-5c6c9d7db87f.png)
+<img src="https://user-images.githubusercontent.com/40350374/59909815-3760ad80-942e-11e9-86dc-5c6c9d7db87f.png" width="400" height="790">
 
 ```
 A vegetable oil was tested for its acid value, 10 gm of oil required 0.2 mi of KOH.
@@ -27,4 +28,5 @@ Acid Value = 0.0224 mg of KOH /gm of oil
 
 As acid value is less than 0.1 mg/gm oil is suitable for lubrication.
 ```
-![Screenshot_20190621-133530](https://user-images.githubusercontent.com/40350374/59909866-58290300-942e-11e9-86a1-66ac489de12d.png)
+<!--![Screenshot_20190621-133530](https://user-images.githubusercontent.com/40350374/59909866-58290300-942e-11e9-86a1-66ac489de12d.png)-->
+<img src="https://user-images.githubusercontent.com/40350374/59909866-58290300-942e-11e9-86a1-66ac489de12d.png" width="400" height="790">
